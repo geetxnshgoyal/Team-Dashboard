@@ -1,4 +1,5 @@
-# Team Dashboard (Standalone)
+# Team Dashboard
+
 
 This folder contains a self-contained copy of the Bug Bash team dashboard front-end (`team.html`) and its supporting API server. You can copy/move this directory into a fresh project and deploy it independently from the main Bug Bash site.
 
